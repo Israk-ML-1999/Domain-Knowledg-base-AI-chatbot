@@ -105,13 +105,14 @@ The company data was scraped from the Mysoft Heaven website using:
 
 ### 2️⃣ Embedding Model Choice
 
-**Model:** `sentence-transformers/all-MiniLM-L6-v2` (Hugging Face)
+**Model:** `sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2` (Hugging Face)
 
 **Why this model?**
 - ✅ **Free & Local** - No API costs
-- ✅ **Fast** - 120M parameters, optimized for speed
+- ✅ **Fast** - 118M parameters, optimized for speed
 - ✅ **Accurate** - 384-dimensional embeddings
 - ✅ **Battle-tested** - 5M+ downloads on Hugging Face
+- ✅ **Multi-language** - 50 + language 
 
 **Alternative:** OpenAI `text-embedding-3-small` (if API key provided)
 
