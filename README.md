@@ -9,7 +9,7 @@ A production-ready **RAG (Retrieval-Augmented Generation)** chatbot designed for
 
 ---
 ## UI 
- 
+ ![image_atl](https://github.com/Israk-ML-1999/AI-chatbot-with-Lead-automothion/blob/716a23487c02624384cf2dda6a790b7032c3c1dc/UI%20Image/1.png)
 
 ## 🎯 Features
 
