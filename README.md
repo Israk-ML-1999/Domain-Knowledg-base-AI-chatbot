@@ -111,7 +111,8 @@ The company data was scraped from the Mysoft Heaven website using:
 - ✅ **Free & Local** - No API costs
 - ✅ **Fast** - 118M parameters, optimized for speed
 - ✅ **Accurate** - 384-dimensional embeddings
-- ✅ **Battle-tested** - 5M+ downloads on Hugging Face
+- ✅ **Semantic Understanding** - Optimized for paraphrase detection (understands similar meanings)
+- ✅ **Battle-tested** - 2M+ downloads on Hugging Face
 - ✅ **Multi-language** - 50 + language 
 
 **Alternative:** OpenAI `text-embedding-3-small` (if API key provided)
