@@ -187,8 +187,8 @@ CONTEXT FOUND: Yes
 
 **Fallback Messaging:**
 - **No Context (0%):** Polite rejection message
-- **Low Match (<40%):** "I don't have information about that..."
-- **Good Match (40%+):** Proceeds with response generation
+- **Low Match (<30%):** "I don't have information about that..."
+- **Good Match (30%+):** Proceeds with response generation
 
 **Note:** No hard thresholds used - LLM decides if context is sufficient
 ---
